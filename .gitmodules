@@ -1,0 +1,3 @@
+[submodule "ninja-build-syntax"]
+	path = ninja-build-syntax
+	url = https://github.com/tlaferriere/ninja-build-syntax.git
