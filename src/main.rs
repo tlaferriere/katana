@@ -60,8 +60,4 @@ fn main() {
             }
         };
     }
-    // dbg!(rules);
-    // dbg!(builds);
-    // dbg!(bindings);
-    // dbg!(default);
 }
